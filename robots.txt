@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://doll6777.github.io/sitemap.xml
+Sitemap: http://Seokjinoh.github.io/sitemap.xml

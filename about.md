@@ -4,5 +4,5 @@ title: About
 ---
 
 <p class="message">
-  안녕하세요. Ran 입니다.
+  안녕하세요. Seok 입니다.
 </p>
