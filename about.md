@@ -4,5 +4,9 @@ title: About
 ---
 
 <p class="message">
-  안녕하세요. Seok 입니다.
+
+  - work in South Korea
+  - in charge of Embedded Firmware development
+  - development for Battery Management System
+
 </p>
