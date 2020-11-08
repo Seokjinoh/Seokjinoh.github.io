@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_posts",
+    "\\_posts\\algorithm"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\algorithm\\2019-10-05-leetcode-deletenode-nth.md",
   "PreviewInSolutionExplorer": false
 }

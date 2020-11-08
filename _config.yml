@@ -1,7 +1,7 @@
 # Site Info
-title: Ranlog
-tagline: 'ranlog'
-description: 'S/W Develop Blog'
+title: Seokjin's blog
+tagline: 'Seokjin Oh'
+description: 'Seokjin`s Blog'
 baseurl: ""
 url: https://Seokjinoh.github.io
 logo: '/public/logo.png'
@@ -25,13 +25,12 @@ version: 1.0
 
 # About/contact
 author:
-  name: ran
-  description: S/W developer
+  name: Oh Seokjin
+  description: Firmware developer
   contact:
-    linkedin:  https://www.linkedin.com/in/hye-ran-lee-584328109/
-    github:    https://github.com/doll6777
-    facebook:  https://www.facebook.com/
-    email:     mailto:doll6777@gmail.com
+    linkedin:  https://www.linkedin.com/in/seokjin-oh-1b5a81146/
+    github:    https://github.com/Seokjinoh
+    email:     mailto:fietch096@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
