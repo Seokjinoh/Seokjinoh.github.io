@@ -40,18 +40,9 @@ nav:
     - '/blog/categories/'
     # - { Categories All: '/blog/categories/' }
     
-    - { ROS2: '/blog/categories/#ros2' }
     - { C++: '/blog/categories/#c' }
-    - { 딥러닝: '/blog/categories/#딥러닝' }
-    - { Java: '/blog/categories/#Java' }
     - { algorithm: '/blog/categories/#algorithm' }
-    - { 안드로이드: '/blog/categories/#안드로이드' }
-    - { 디자인패턴: '/blog/categories/#디자인패턴' }
-    - { Network: '/blog/categories/#Network' }
-    - { Kotlin: '/blog/categories/#Kotlin' }
-    - { Book: '/blog/categories/#Book' }
     - { OS: '/blog/categories/#OS' }
-    - { Web: '/blog/categories/#Web' }
     - { Etc: '/blog/categories/#Etc' }
     
 
