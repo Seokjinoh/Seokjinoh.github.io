@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Pointers Algorithm
+title: Two Pointers Technique
 tags: [algorithm, programming, leetcode]
 category : algorithm
 ---
