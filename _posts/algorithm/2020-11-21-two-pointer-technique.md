@@ -5,7 +5,7 @@ tags: [algorithm, programming, leetcode]
 category : algorithm
 ---
 
-#Definition
+# Definition
 https://www.youtube.com/watch?v=2wVjt3yhGwg
 
 Two pointers is really an easy and effective technique which is typically used for searching pairs in a sorted array.
